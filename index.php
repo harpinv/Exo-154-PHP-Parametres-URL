@@ -10,7 +10,10 @@
  */
 
 // TODO Votre code ici.
-
+?>
+<a href="exo1.php?iteration=10">page suivante</a>
+<br>
+<?php
 
 /**
  * Exo 2
@@ -20,7 +23,11 @@
  * Pour chaque lien, le paramètre iteration prendra la valeur actuelle de votre variable de boucle ( $i par exemple ).
  */
 
+// TODO Votre code ici.
+?>
+<a href="exo2.php?iteration=10">page suivante</a>
 
+<?php
 
 
 
